@@ -1,0 +1,10 @@
+ - Overview -
+The end goal for this project is to create the game of chess using pygame. I would like to further add on to this project by creating my own chess engine and adding an AI opponent. A very random thing I would like to also do would be to sort the chess board pieces by attaching a value according to its type and value.
+
+Here I will keep track of current tasks and problems that should grow and become more semantic as I progress.
+
+
+1. Make a chess grid.
+2. Attach (x,y) coordinate values to be able to identify each square in the grid accordingly.
+3. Load chess pieces to appropriate initial squares. 
+4. Be able to move a chess piece to an unoccupied square.
